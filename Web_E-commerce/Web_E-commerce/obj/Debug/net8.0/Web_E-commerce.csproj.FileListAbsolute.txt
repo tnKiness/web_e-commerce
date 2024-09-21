@@ -225,3 +225,4 @@ C:\Web_Project\Web_E-commerce\Web_E-commerce\obj\Debug\net8.0\Web_E-commerce.pdb
 C:\Web_Project\Web_E-commerce\Web_E-commerce\obj\Debug\net8.0\Web_E-commerce.genruntimeconfig.cache
 C:\Web_Project\Web_E-commerce\Web_E-commerce\obj\Debug\net8.0\ref\Web_E-commerce.dll
 C:\Web_Project\Web_E-commerce\Web_E-commerce\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Web_Project\Web_E-commerce\Web_E-commerce\obj\Debug\net8.0\Web_E-commerce.sourcelink.json
